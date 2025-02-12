@@ -1,0 +1,24 @@
+{
+  "employee": [
+    {
+      "id": "1349",
+      "name": "Swadhinjit das",
+      "email": "swadhinjit14@gmail.com",
+      "phone": "09348632268",
+      "active": true
+    },
+    {
+      "id": "b380",
+      "name": "archN DAS",
+      "email": "swadhinjit14@gmail.com",
+      "phone": "09348632268"
+    },
+    {
+      "id": "1411",
+      "name": "satyajit das",
+      "email": "satyajit15@gmail.comn",
+      "phone": "00998887766565",
+      "active": true
+    }
+  ]
+}
